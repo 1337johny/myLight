@@ -1,0 +1,62 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jonathan.klaiber@gmx.de",
+    "longName": "myLight",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/myLight-icon.png",
+                "menuIcon": true,
+                "name": "IMAGES_MYLIGHT_ICON_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/pebble_action_plus.png",
+                "name": "IMAGES_PEBBLE_ACTION_PLUS_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/pebble_action_minus.png",
+                "name": "IMAGES_PEBBLE_ACTION_MINUS_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "myLight",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "9c8e9de8-c562-4716-9745-e499b9ff4acc",
+    "versionCode": 1,
+    "versionLabel": "2.0",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
